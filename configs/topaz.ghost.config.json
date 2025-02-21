@@ -2,7 +2,7 @@
     {
         "kernelSource": { 
             "name": "Ghost-RKSU-SUSFS", 
-            "repo": "https://github.com/topnotchfreaks/kernel_msm-5.15", 
+            "repo": "https://github.com/NVG-064/kernel_msm-5.15", 
             "branch": "main", 
             "device": "topaz", 
             "defconfig": "gki_defconfig" 
